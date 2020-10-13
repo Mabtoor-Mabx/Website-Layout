@@ -1,0 +1,69 @@
+.header{
+	background-color: red;
+	width: all;
+	height: 60px;
+	color: white;
+}
+.link{
+	padding-left: 22px;
+	font-size: 20px;
+	color: white;
+}
+.link1{
+	padding-top: 30px;
+}
+.slide{
+	width: all;
+	height: 70px;
+	background-color: #fc0fc0;
+	color: white;
+	font-size: 30px;
+	text-align: center;
+	padding-top: 70px;
+}
+.column1{
+	float: left;
+	width: 400px;
+	height: 50px;
+	background-color: green;
+	text-align: center;
+	padding-top: 30px;
+}
+.column2{
+	margin-left: 50px;
+	padding-top: 30px;
+	float: left;
+	width: 400px;
+	height: 50px;
+	background-color: green;
+	text-align: center;
+}
+.rightcolumn{
+	float: right;
+	height: 150px;
+	background-color: skyblue;
+	width: 450px;
+	text-align: center;
+	padding-top: 90px;
+}
+
+.column3,.column4,.column5{
+	text-align: center;
+	margin-left: 30px;
+	height: 70px;
+	float: left;
+	margin-top: 30px;
+	background-color: green;
+	width: 250px;
+	padding-top: 60px;
+}
+.footer{
+	padding-top: 30px;
+	margin-top: 40px;
+	width: all;
+	height: 40px;
+	background-color: blue;
+	color: white;
+	text-align: center;
+}
+
